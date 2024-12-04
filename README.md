@@ -2,6 +2,10 @@
 
 This repository contains a simple example of an **STM32** application using **FreeRTOS** to control multiple LEDs. The project demonstrates multitasking and synchronization in a real-time embedded system.
 
+
+https://github.com/user-attachments/assets/ebe21bda-5275-45df-8447-d8cd430d6447
+
+
 ## Features
 - **Multitasking**: Implements three tasks using FreeRTOS:
   - `defaultTask`: Placeholder for future functionalities.
